@@ -1,3 +1,2 @@
-# 
-Git and Guthub Course
+# Git and Guthub Course
 
